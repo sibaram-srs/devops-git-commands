@@ -32,7 +32,7 @@ git switch -c <name>              # create + switch branch
 git merge <branch>                # merge branch into current branch
 git rebase <branch>               # rewrite commit history (advanced)
 
-git remote -v                     # show remote repo links
+git remote -v                    # show remote repo links
 git remote add origin <url>      # connect local repo to GitHub
 
 git push origin main             # send code to GitHub

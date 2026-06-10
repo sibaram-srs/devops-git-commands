@@ -4,14 +4,14 @@
 
 ```bash
 
-git --version                      # check git installed version
+git --version                            # check git installed version
 git config --global user.name "Name"     # set your identity
-git config --global user.email "email"    # set email for commits
+git config --global user.email "email"   # set email for commits
 
-git init                           # initialize git repo in project
+git init                          # initialize git repo in project
 git clone <repo-url>              # copy remote repo to local machine
 
-git status                         # shows modified/untracked files
+git status                        # shows modified/untracked files
 git log                           # commit history
 git diff                          # changes not yet staged
 git show                          # details of a commit

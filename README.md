@@ -65,3 +65,5 @@ git clean -fd                   # remove untracked files
 # Git is used in DevOps pipelines (CI/CD) where code is:
 # Developer -> GitHub -> Jenkins/GitHub Actions -> Build -> Test -> Deploy (Docker/K8s)
 # Every commit can trigger automated deployment.
+
+

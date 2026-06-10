@@ -2,6 +2,8 @@
 
 # Git is a version control system used to track code changes, collaborate, and manage deployments in DevOps pipelines.
 
+```bash
+
 git --version                      # check git installed version
 git config --global user.name "Name"     # set your identity
 git config --global user.email "email"    # set email for commits

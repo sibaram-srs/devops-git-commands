@@ -59,7 +59,6 @@ git cherry-pick <commit-id>     # apply specific commit
 
 git log --oneline --graph --all # visual commit tree
 
-git clean -fd                   # remove untracked files
 
 # IDEA (DevOps context):
 # Git is used in DevOps pipelines (CI/CD) where code is:
